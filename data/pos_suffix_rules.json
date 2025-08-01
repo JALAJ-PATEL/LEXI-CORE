@@ -1,0 +1,58 @@
+{
+  "noun_suffixes": [
+    "tion", "sion", "ment", "ness", "ity", "ty", "er", "or", "ar", "ist", "ism",
+    "age", "ance", "ence", "ing", "dom", "ship", "hood", "ward", "ful"
+  ],
+  "verb_suffixes": [
+    "ed", "ing", "en", "ize", "ise", "fy", "ate"
+  ],
+  "adjective_suffixes": [
+    "able", "ible", "al", "ial", "ed", "en", "er", "est", "ful", "ic", "ical",
+    "ine", "ing", "ish", "ive", "less", "ly", "ous", "y"
+  ],
+  "adverb_suffixes": [
+    "ly", "ward", "wise"
+  ],
+  "suffix_priority": {
+    "tion": "noun",
+    "sion": "noun",
+    "ment": "noun",
+    "ness": "noun",
+    "ity": "noun",
+    "ty": "noun",
+    "er": "noun",
+    "or": "noun",
+    "ar": "noun",
+    "ist": "noun",
+    "ism": "noun",
+    "age": "noun",
+    "ance": "noun",
+    "ence": "noun",
+    "dom": "noun",
+    "ship": "noun",
+    "hood": "noun",
+    "ward": "adverb",
+    "ed": "verb",
+    "ing": "verb",
+    "en": "verb",
+    "ize": "verb",
+    "ise": "verb",
+    "fy": "verb",
+    "ate": "verb",
+    "able": "adjective",
+    "ible": "adjective",
+    "al": "adjective",
+    "ial": "adjective",
+    "ful": "adjective",
+    "ic": "adjective",
+    "ical": "adjective",
+    "ine": "adjective",
+    "ish": "adjective",
+    "ive": "adjective",
+    "less": "adjective",
+    "ous": "adjective",
+    "y": "adjective",
+    "ly": "adverb",
+    "wise": "adverb"
+  }
+}

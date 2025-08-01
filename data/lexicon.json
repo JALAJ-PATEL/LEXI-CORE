@@ -1,0 +1,29 @@
+{
+  "positive": [
+    "good", "great", "excellent", "amazing", "wonderful", "fantastic", "awesome", "brilliant",
+    "outstanding", "superb", "marvelous", "perfect", "beautiful", "lovely", "nice", "pleasant",
+    "happy", "joyful", "cheerful", "delighted", "excited", "thrilled", "pleased", "satisfied",
+    "love", "like", "enjoy", "appreciate", "adore", "admire", "favor", "prefer",
+    "success", "win", "victory", "triumph", "achievement", "accomplish", "succeed", "prosper",
+    "best", "better", "superior", "top", "first", "prime", "quality", "premium",
+    "helpful", "useful", "beneficial", "valuable", "worthwhile", "important", "significant",
+    "easy", "simple", "smooth", "effortless", "comfortable", "convenient", "quick", "fast"
+  ],
+  "negative": [
+    "bad", "terrible", "awful", "horrible", "disgusting", "nasty", "gross", "ugly",
+    "poor", "worst", "inferior", "low", "cheap", "worthless", "useless", "pointless",
+    "sad", "unhappy", "depressed", "miserable", "disappointed", "upset", "angry", "furious",
+    "hate", "dislike", "despise", "loathe", "detest", "abhor", "reject", "refuse",
+    "fail", "failure", "lose", "loss", "defeat", "disaster", "problem", "trouble",
+    "difficult", "hard", "impossible", "challenging", "complex", "complicated", "confusing",
+    "slow", "boring", "dull", "tedious", "annoying", "frustrating", "irritating", "painful"
+  ],
+  "neutral": [
+    "maybe", "perhaps", "possibly", "probably", "likely", "unlikely", "sometimes", "usually",
+    "often", "rarely", "never", "always", "here", "there", "where", "when", "how", "what",
+    "who", "which", "why", "because", "since", "although", "however", "therefore", "thus",
+    "and", "or", "but", "if", "then", "else", "while", "during", "before", "after",
+    "the", "a", "an", "this", "that", "these", "those", "some", "any", "all", "every",
+    "one", "two", "three", "many", "few", "several", "most", "least", "more", "less"
+  ]
+}

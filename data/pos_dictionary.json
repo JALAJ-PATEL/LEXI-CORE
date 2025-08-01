@@ -1,0 +1,50 @@
+{
+  "nouns": [
+    "cat", "dog", "house", "car", "book", "table", "chair", "computer", "phone", "water",
+    "food", "time", "person", "place", "thing", "world", "life", "work", "home", "school",
+    "money", "business", "family", "friend", "child", "parent", "teacher", "student",
+    "doctor", "nurse", "engineer", "manager", "artist", "writer", "player", "team",
+    "game", "movie", "music", "song", "picture", "photo", "video", "story", "news",
+    "information", "data", "system", "program", "software", "website", "internet"
+  ],
+  "verbs": [
+    "be", "is", "am", "are", "was", "were", "have", "has", "had", "do", "does", "did",
+    "will", "would", "could", "should", "can", "may", "might", "must", "shall",
+    "go", "come", "see", "look", "watch", "hear", "listen", "speak", "talk", "say",
+    "tell", "ask", "answer", "think", "know", "understand", "learn", "teach", "study",
+    "work", "play", "run", "walk", "sit", "stand", "lie", "sleep", "eat", "drink",
+    "buy", "sell", "give", "take", "get", "put", "make", "create", "build", "write"
+  ],
+  "adjectives": [
+    "good", "bad", "big", "small", "large", "little", "old", "new", "young", "long",
+    "short", "high", "low", "fast", "slow", "hot", "cold", "warm", "cool", "dry",
+    "wet", "clean", "dirty", "easy", "hard", "simple", "difficult", "important",
+    "special", "different", "same", "right", "wrong", "true", "false", "real", "fake",
+    "happy", "sad", "angry", "excited", "tired", "busy", "free", "ready", "careful"
+  ],
+  "adverbs": [
+    "very", "really", "quite", "too", "so", "more", "most", "less", "least", "much",
+    "many", "little", "few", "often", "sometimes", "usually", "always", "never",
+    "here", "there", "now", "then", "today", "tomorrow", "yesterday", "soon", "late",
+    "early", "quickly", "slowly", "carefully", "easily", "hardly", "probably", "maybe"
+  ],
+  "pronouns": [
+    "I", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them",
+    "my", "your", "his", "her", "its", "our", "their", "mine", "yours", "ours", "theirs",
+    "this", "that", "these", "those", "who", "what", "which", "where", "when", "how", "why"
+  ],
+  "prepositions": [
+    "in", "on", "at", "by", "for", "with", "to", "from", "of", "about", "into", "onto",
+    "under", "over", "above", "below", "between", "among", "through", "during", "before",
+    "after", "since", "until", "within", "without", "against", "toward", "across"
+  ],
+  "conjunctions": [
+    "and", "or", "but", "so", "yet", "for", "nor", "because", "since", "although",
+    "though", "while", "if", "unless", "until", "when", "where", "as", "than", "that"
+  ],
+  "determiners": [
+    "the", "a", "an", "this", "that", "these", "those", "my", "your", "his", "her",
+    "its", "our", "their", "some", "any", "all", "every", "each", "many", "much",
+    "few", "little", "several", "both", "either", "neither", "one", "two", "first"
+  ]
+}

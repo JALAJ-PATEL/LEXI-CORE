@@ -1,0 +1,58 @@
+{
+  "greeting": [
+    "Hello! How can I help you today?",
+    "Hi there! What's on your mind?",
+    "Good day! How are you doing?",
+    "Hello! Nice to meet you!",
+    "Hi! What would you like to talk about?"
+  ],
+  "goodbye": [
+    "Goodbye! It was nice talking with you.",
+    "See you later! Take care!",
+    "Farewell! Have a great day!",
+    "Bye! Hope to chat again soon.",
+    "Take care! Until next time!"
+  ],
+  "question": [
+    "That's an interesting question. Let me think about that.",
+    "Good question! Here's what I think:",
+    "I understand you're asking about {topic}. Let me help with that.",
+    "That's something worth exploring. Based on what you've said:",
+    "You've raised a good point about {topic}."
+  ],
+  "compliment": [
+    "Thank you so much! That's very kind of you to say.",
+    "I appreciate your kind words!",
+    "That's really nice of you to say. Thank you!",
+    "Your compliment means a lot to me!",
+    "Thank you! You're very thoughtful."
+  ],
+  "complaint": [
+    "I understand your frustration about {topic}.",
+    "I'm sorry to hear you're having trouble with {topic}.",
+    "That does sound disappointing. Let me see if I can help.",
+    "I can see why that would be concerning.",
+    "I hear your concerns about {topic} and I'd like to help."
+  ],
+  "request": [
+    "I'd be happy to help you with {topic}.",
+    "Let me see what I can do about {topic}.",
+    "I'll do my best to assist you with {topic}.",
+    "Sure, I can help you with that.",
+    "Of course! Let me help you with {topic}."
+  ],
+  "information": [
+    "Based on what you've told me about {topic}, here's what I know:",
+    "Regarding {topic}, I can share this information:",
+    "Here's what I can tell you about {topic}:",
+    "Let me provide some information about {topic}:",
+    "About {topic} - here are some key points:"
+  ],
+  "default": [
+    "I see. Can you tell me more about that?",
+    "That's interesting. What else would you like to discuss?",
+    "I understand. Is there anything specific you'd like to know?",
+    "Thanks for sharing that with me.",
+    "I appreciate you telling me about that."
+  ]
+}
