@@ -1,0 +1,19 @@
+# LexiCore Requirements
+
+# This project uses only Python standard libraries and does not require any external packages.
+# The following are the built-in modules used:
+
+# Standard Library Modules Used:
+# - json: For reading and writing JSON data files
+# - os: For file system operations and path manipulation
+# - re: For regular expressions in tokenization and pattern matching
+# - random: For random selection in response generation
+# - datetime: For timestamp tracking in conversation state
+# - typing: For type hints and better code documentation
+# - unittest: For unit testing framework
+
+# Python Version Requirement:
+# Python 3.6+ (for f-string support and type hints)
+
+# No external dependencies required!
+# This is intentional to demonstrate pure rule-based NLP without ML libraries.
